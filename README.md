@@ -7,4 +7,4 @@
 * :books: :pencil2: :rocket: O início da minha jornada na programação: Fevereiro/2022.
 * :mag_right: Curiosidade: Fui gerente de Unidade de Alimentação e Nutrição de um dos maiores hospitais de referência em Traumatologia e Ortopedia do estado onde morei, e espero utilizar todo conhecimento e habilidades adquiridas nesse tempo, para esta nova fase em minha vida.
 
-<img src="{Badgehttps://www.linkedin.com/in/debs-andrade/}" />
+<img src="{[Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" />
